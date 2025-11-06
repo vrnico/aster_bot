@@ -10,7 +10,7 @@ The **Dog Bowl Smart Long Scalper** is a fully-automated Python trading bot desi
 **ASTERUSDT perpetual futures** on [AsterDex](https://asterdex.com).
 
 It operates on a simple but proven philosophy:  
-> “Markets rise more often than they fall — especially in reflexive crypto ecosystems.”
+> “Markets rise more often than they fall // especially in reflexive crypto ecosystems.”
 
 Rather than trying to predict both sides of the market, this bot stays **long-only**,  
 optimizing for compounding, position recovery, and trend alignment.  
