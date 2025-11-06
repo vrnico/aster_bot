@@ -97,12 +97,8 @@ If it’s a bear day, the bot will sit flat // that’s a feature, not a bug.
 ## 🧭 Philosophy
 
 This bot isn’t a casino script.  
-It’s a small, disciplined automaton that thrives in micro-trends,  
-trading like a scalpel — not a sledgehammer.  
-
 If you respect its parameters, it respects your capital.  
-If you run it into a bear day, well… you’re fading CZ.  
-And no one fades CZ for long.
+no one fades $Aster
 
 ---
 
